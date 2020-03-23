@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f01ace82-6677-44d4-9bf9-7588c264fb70" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZKXrIfV6CadZoYWH8065cME2dP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Collection" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ManagerEmployeeDetails" />
+      <module name="Manage Employee Details" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f01ace82-6677-44d4-9bf9-7588c264fb70" name="Default Changelist" comment="" />
+      <created>1584588956317</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584588956317</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584590321743">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738/1366.0.1440.870@0.0.1366.738" timestamp="1584590321743" />
+    <state x="412" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584590319222">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="412" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.738/1366.0.1440.870@0.0.1366.738" timestamp="1584590319222" />
+    <state x="462" y="110" key="FileChooserDialogImpl" timestamp="1584590972574">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="462" y="110" key="FileChooserDialogImpl/0.0.1366.738/1366.0.1440.870@0.0.1366.738" timestamp="1584590972574" />
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1584590976362">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.1440.870@0.0.1366.738" timestamp="1584590976362" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1584590976362">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.1440.870@0.0.1366.738" timestamp="1584590976362" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1584590976361">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.1440.870@0.0.1366.738" timestamp="1584590976361" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1584590976362">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.1440.870@0.0.1366.738" timestamp="1584590976362" />
+    <state x="65" y="0" key="new project wizard" timestamp="1584590974536">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.738/1366.0.1440.870@0.0.1366.738" timestamp="1584590974536" />
+  </component>
+</project>
